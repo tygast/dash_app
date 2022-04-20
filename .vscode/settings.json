@@ -1,0 +1,15 @@
+{
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "C:\\Users\\tgaston\\anaconda3\\envs\\dash\\python.exe",
+    "workbench.colorCustomizations": {
+        "activityBar.background":"#9e3623",
+        "statusBar.background": "#9e3623", 
+        "titleBar.activeBackground": "#9e3623",
+        "titleBar.inactiveBackground": "#852818"
+        },
+}
